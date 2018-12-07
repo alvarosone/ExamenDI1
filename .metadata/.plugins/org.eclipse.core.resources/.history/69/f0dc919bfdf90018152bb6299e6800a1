@@ -1,0 +1,14 @@
+.mypane {
+	-fx-background-image: 
+}
+
+.btn {
+	-fx-background-color: orange;
+	-fx-background-radius: 5;
+	-fx-border-color: orange;
+	-fx-text-fill: white;
+}
+
+.mytitle {
+	-fx-
+}

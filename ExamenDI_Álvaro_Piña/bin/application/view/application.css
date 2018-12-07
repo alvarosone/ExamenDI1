@@ -1,0 +1,28 @@
+.mypane {
+	-fx-background-image: url("assets/blueforest.png");
+	
+}
+
+.btn {
+	-fx-background-color: orange;
+	-fx-background-radius: 5px;
+	-fx-text-fill: white;
+}
+
+.btn:hover {
+	-fx-background-color: darkorange;
+}
+
+.btn:pressed {
+  -fx-background-color: #008080;
+  -fx-text-fill: white;
+}
+
+.mytitle {
+	-fx-font-family: "Shadows Into Light";
+    -fx-font-size: 32.0px;
+}
+
+.mypane2{
+	-fx-background-color: linear-gradient(orange, teal); 
+}

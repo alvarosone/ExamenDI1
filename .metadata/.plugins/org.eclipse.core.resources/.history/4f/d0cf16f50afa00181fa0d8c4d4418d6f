@@ -1,0 +1,15 @@
+.mypane {
+	-fx-background-image: url("assets/blueforest.png");
+	
+}
+
+.btn {
+	-fx-background-color: orange;
+	-fx-background-radius: 5px;
+	-fx-text-fill: white;
+}
+
+.mytitle {
+	-fx-font-family: "PoiretOne-Regular.ttf";
+    -fx-font-size: 32.0px;
+}

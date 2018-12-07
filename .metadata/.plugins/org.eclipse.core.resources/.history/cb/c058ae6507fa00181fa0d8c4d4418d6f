@@ -1,0 +1,15 @@
+.mypane {
+	-fx-background-image: url("assets/blueforest.png");
+}
+
+.btn {
+	-fx-background-color: orange;
+	-fx-background-radius: 5;
+	-fx-border-color: orange;
+	-fx-text-fill: white;
+}
+
+.mytitle {
+	-fx-font-family: "Shadows Into Light";
+    -fx-font-size: 32.0px;
+}
